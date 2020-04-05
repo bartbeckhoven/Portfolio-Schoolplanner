@@ -13,7 +13,7 @@ Op maandag is er normaal altijd een projectdag, alleen kon ik er helaas niet bij
 
 Om de foutmeldingen te realiseren zijn we eerst gaan kijken naar welke waarde er gecheckt moesten worden. Er moest vooral telkens naar de lestijden gekeken worden en vervolgens of de klas, leraar of lokaal niet op die tijd al bezet waren. We hebben er uiteindelijk voor gekozen om dit via een heleboel if statements te gaan doen. Dit stuk code was echter niet erg netjes. In totaal hadden we 18 if statements onder elkaar die elk iets anders controleerde. Na wat testen dachten we dat alles naar behoren werkten maar na samenvoegen moesten we vrijdag opnieuw gaan zitten. We wisten dat de code een stuk robuuster en slimmer moest. Jan-Kees en ik hebben daarom gekozen voor een klein aantal if statements met een switch-case voor die de juiste foutmelding return geeft. Na het uitwerken is de code teruggedrongen tot een aantal van 3 if statements die communiceren met een switch case voor de juiste foutmeldingen. Om het aantal if statements in te korten hebben we een extra 3 methodes toegevoegd die de check voor klas, leraar en lokaal doet.  
 
-![If-statements](https://github.com/bartbeckhoven/Portfolio-Schoolplanner/tree/master/Images/if.jpg) 
+![Check](https://github.com/bartbeckhoven/Portfolio-Schoolplanner/tree/master/Images/check.jpg) 
 ![If-statements](https://github.com/bartbeckhoven/Portfolio-Schoolplanner/tree/master/Images/if.jpg)  
 ![Switch Case errormessage](https://github.com/bartbeckhoven/Portfolio-Schoolplanner/tree/master/Images/error.jpg)
 
