@@ -13,7 +13,12 @@ Op maandag is er normaal altijd een projectdag, alleen kon ik er helaas niet bij
 
 Om de foutmeldingen te realiseren zijn we eerst gaan kijken naar welke waarde er gecheckt moesten worden. Er moest vooral telkens naar de lestijden gekeken worden en vervolgens of de klas, leraar of lokaal niet op die tijd al bezet waren. We hebben er uiteindelijk voor gekozen om dit via een heleboel if statements te gaan doen. Dit stuk code was echter niet erg netjes. In totaal hadden we 18 if statements onder elkaar die elk iets anders controleerde. Na wat testen dachten we dat alles naar behoren werkten maar na samenvoegen moesten we vrijdag opnieuw gaan zitten. We wisten dat de code een stuk robuuster en slimmer moest. Jan-Kees en ik hebben daarom gekozen voor een klein aantal if statements met een switch-case voor die de juiste foutmelding return geeft. Na het uitwerken is de code teruggedrongen tot een aantal van 3 if statements die communiceren met een switch case voor de juiste foutmeldingen. Om het aantal if statements in te korten hebben we een extra 3 methodes toegevoegd die de check voor klas, leraar en lokaal doet.  
 
-![Check](https://github.com/bartbeckhoven/Portfolio-Schoolplanner/tree/master/Images/check.jpg) 
-![If-statements](https://github.com/bartbeckhoven/Portfolio-Schoolplanner/tree/master/Images/if.jpg)  
-![Switch Case errormessage](https://github.com/bartbeckhoven/Portfolio-Schoolplanner/tree/master/Images/error.jpg)
+![Check](https://github.com/bartbeckhoven/Portfolio-Schoolplanner/tree/master/Images/check.jpg)  
+![If-statements](https://github.com/bartbeckhoven/Portfolio-Schoolplanner/tree/master/Images/if.jpg)   
+![Switch Case errormessage](https://github.com/bartbeckhoven/Portfolio-Schoolplanner/tree/master/Images/error.jpg)  
 
+## Reflectie Week 4: Tiled Map  
+Deze week moet de tiled map gemaakt worden. Hiervoor moet in een applicatie genaamd tiled een map worden gemaakt vanuit een tileset. Het zoeken van deze tileset heeft het meeste tijd in beslag genomen aangezien het lastig was een gratis set te vinden die alle attributen had die wij nodig hadden voor onze schoolmap. Uiteindelijk hebben we gekozen voor een oude pokémon tileset omdat deze set alles had wat we nodig hadden. Na het vinden van de tileset moesten er een aantal keuzes gemaakt worden: Hoeveel lokalen hebben we nodig, hoe breed worden de gangen, waar en hoeveel toiletten en hoe groot bijvoorbeeld de aula moet worden.  
+Omdat we in de simulatie later geen opstoppingen willen hebben is er gekozen voor wat bredere gangpaden en kleinere NPC's later. Omdat we een aantal leerlingen van 100 hebben zijn we voor een lokaal aantal van 8 gekozen. Hierdoor is er genoeg plek voor elke leerling om te zitten, en een plek voor de leraar.  
+
+## Reflectie Week
