@@ -5,7 +5,7 @@ Het plan van aanpak stond voor deze week op de planning om af te maken zodat we 
 **Klassendiagram**  
 Na het seniorgesprek met Joep bleek dat er in het klassendiagram een aantal gebreken waren. Ten opzichte van week 1 is er gekeken naar het klassendiagram wat we al hadden opgesteld. We kwamen voor een aantal keuzes staan. In welke klassen gaan we data opslaan en met welke klassen kan een klasse communiceren. Er is uiteindelijk gekozen om een centrale klasse "Lesson" te maken die in zijn attributen de bepaalde groep, vak, leraar en tijd bijhoudt. Deze keuze hebben we gemaakt met het idee dat de roostermodule uit een object alle informatie kan halen voor het tekenen van het rooster en later de simulatiemodule zo ook de NPC's naar de lokalen kan laten bewegen.
 
-**!!!!!!!KLASSENDIAGRAM AFBEELDING**  
+![Klassendiagram](https://github.com/bartbeckhoven/Portfolio-Schoolplanner/tree/master/Images/Schoolplanner.jpg)
 
 ## Reflectie Week 3: Foutmeldingen
 In de roostermodule kunnen lessen worden aangemaakt, er moeten nu alleen nog foutmeldingen worden gegeven als je een les wil toevoegen waarvan: klas, leraar of lokaal op dezelfde tijd al een les hebben, en als de begintijd van de les voor de eindtijd ligt.  
