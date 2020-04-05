@@ -13,7 +13,23 @@ Op maandag is er normaal altijd een projectdag, alleen kon ik er helaas niet bij
 
 Om de foutmeldingen te realiseren zijn we eerst gaan kijken naar welke waarde er gecheckt moesten worden. Er moest vooral telkens naar de lestijden gekeken worden en vervolgens of de klas, leraar of lokaal niet op die tijd al bezet waren. We hebben er uiteindelijk voor gekozen om dit via een heleboel if statements te gaan doen. Dit stuk code was echter niet erg netjes. In totaal hadden we 18 if statements onder elkaar die elk iets anders controleerde. Na wat testen dachten we dat alles naar behoren werkten maar na samenvoegen moesten we vrijdag opnieuw gaan zitten. We wisten dat de code een stuk robuuster en slimmer moest. Jan-Kees en ik hebben daarom gekozen voor een klein aantal if statements met een switch-case voor die de juiste foutmelding return geeft. Na het uitwerken is de code teruggedrongen tot een aantal van 3 if statements die communiceren met een switch case voor de juiste foutmeldingen. Om het aantal if statements in te korten hebben we een extra 3 methodes toegevoegd die de check voor klas, leraar en lokaal doet.  
 
-![If-statements](https://github.com/bartbeckhoven/Portfolio-Schoolplanner/tree/master/Images/if.jpg) 
-![If-statements](https://github.com/bartbeckhoven/Portfolio-Schoolplanner/tree/master/Images/if.jpg)  
-![Switch Case errormessage](https://github.com/bartbeckhoven/Portfolio-Schoolplanner/tree/master/Images/error.jpg)
+![Check](https://github.com/bartbeckhoven/Portfolio-Schoolplanner/tree/master/Images/check.jpg)  
+![If-statements](https://github.com/bartbeckhoven/Portfolio-Schoolplanner/tree/master/Images/if.jpg)   
+![Switch Case errormessage](https://github.com/bartbeckhoven/Portfolio-Schoolplanner/tree/master/Images/error.jpg)  
+
+## Reflectie Week 4: Tiled Map  
+Deze week moet de tiled map gemaakt worden. Hiervoor moet in een applicatie genaamd tiled een map worden gemaakt vanuit een tileset. Het zoeken van deze tileset heeft het meeste tijd in beslag genomen aangezien het lastig was een gratis set te vinden die alle attributen had die wij nodig hadden voor onze schoolmap. Uiteindelijk hebben we gekozen voor een oude pokémon tileset omdat deze set alles had wat we nodig hadden. Na het vinden van de tileset moesten er een aantal keuzes gemaakt worden: Hoeveel lokalen hebben we nodig, hoe breed worden de gangen, waar en hoeveel toiletten en hoe groot bijvoorbeeld de aula moet worden.  
+Omdat we in de simulatie later geen opstoppingen willen hebben is er gekozen voor wat bredere gangpaden en kleinere NPC's later. Omdat we een aantal leerlingen van 100 hebben zijn we voor een lokaal aantal van 8 gekozen. Hierdoor is er genoeg plek voor elke leerling om te zitten, en een plek voor de leraar.  
+
+## Reflectie Week 5  
+De definitieve versie van het plan van aanpak moet worden ingeleverd en op het moment missen er nog een aantal dingen. Samen met Jan-Kees hebben we ons gericht op het compleet maken van het plan van aanpak. We zijn begonnen met een work breakdown structure want die moest nog gemaakt worden. In dit stadium van het project is het niet echt veel keuzes maken, en zeker niet in het plan van aanpak, dit moet namelijk aan een aantal critera voldoen. Na deze week is het plan van aanpak af en hebben we dit compleet ingeleverd.
+
+## Reflectie Week 8  
+Wegens het coronavirus kunnen we niet samenkomen en moet alles via teams gedaan worden. Dit was even wennen en heeft zeker een grote impact op de snelheid van werken. Alles wat nog moeten worden gedaan gebeurd in dezelfde klassen en methode waardoor we met 3 man tegelijk naar een scherm moeten kijken om te werken. Hierdoor is de productiviteit erg laag en duren de projectdagen lang. We hebben deze week de koppeling van de roostermodule naar de simulatiemodude zo goed als afgekregen. We moeten nu nog maar een paar dingen afmaken voor de deadline. Dit zijn wat kleine dingen die in een middag kunnen worden gedaan.
+
+## Reflectie Week 9
+Deze week staat in het teken van de puntjes op de i zetten zodat alles gereed is voor inlevering. Ik moet het klassendiagram up to date maken met de huidige code, en dit in het technisch document zetten. Om de huidige code om te zetten naar UML kan in visual paradigm erg makkelijk geconverteerd worden. Ook wil ik deze week evalueren over hoe het project voor mij persoonklijk is verlopen, zodat ik volgende periode een aantal dingen kan verbeteren aan mijn werkhouding.
+
+![Switch Case errormessage](https://github.com/bartbeckhoven/Portfolio-Schoolplanner/tree/master/Images/error.jpg)  
+
 
