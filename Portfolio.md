@@ -30,6 +30,13 @@ Wegens het coronavirus kunnen we niet samenkomen en moet alles via teams gedaan 
 ## Reflectie Week 9
 Deze week staat in het teken van de puntjes op de i zetten zodat alles gereed is voor inlevering. Ik moet het klassendiagram up to date maken met de huidige code, en dit in het technisch document zetten. Om de huidige code om te zetten naar UML kan in visual paradigm erg makkelijk geconverteerd worden. Ook wil ik deze week evalueren over hoe het project voor mij persoonklijk is verlopen, zodat ik volgende periode een aantal dingen kan verbeteren aan mijn werkhouding.
 
-![Switch Case errormessage](https://github.com/bartbeckhoven/Portfolio-Schoolplanner/tree/master/Images/error.jpg)  
+![Roostermodule](https://github.com/bartbeckhoven/Portfolio-Schoolplanner/tree/master/Images/Roostermodule.jpg) 
+![Simulatiemodule](https://github.com/bartbeckhoven/Portfolio-Schoolplanner/tree/master/Images/Simulatie.jpg)  
+
+**Persoonlijke evaluatie**  
+In dit kopje wil ik terugblikken naar hoe het project is verlopen voor mijzelf en dus niet in het groepsverband. Als ik terugkijk naar het begin van het project, had ik een erg sterke start en was ik zeer gedreven dit project goed bij te houden om een goed resultaat te bereiken. Dit zou betekenen dat ik netjes elke week mijn portfolio bijwerk en een goede inzet toon op alle projectdagen. De eerste 3 weken heb ik dit erg netjes bij kunnen houden. Elke week werkte ik mijn portfolio bij een evaluatie van hoe de projectag is verlopen. Echter na week 4 werd dit een stuk minder. De dingen die ik volgende periode wil verbeteren zijn dus het bijhouden van mijn opdrachten en portfolio.  
+
+## Stelling: “In het bedrijfsleven wordt steeds meer in software gesimuleerd”  
+In het bedrijfsleven wordt naar mijn idee steeds meer gesimuleerd. Simuleren is een erg makkelijke manier om fouten op te sporen in een latere ontwikkeling. In een goed gebouwde simulator kunnen verschillende omstandigheden aangepast worden waardoor er makkelijk op meerdere scenarios getest kan worden. Het zorgt ervoor dat men een goed beeld kan vormen bij iets wat nog gerealiseerd moet worden. 
 
 
